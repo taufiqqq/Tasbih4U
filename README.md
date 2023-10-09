@@ -1,4 +1,4 @@
-# Tasbih4U / TasbihChamp README
+# Tasbih4U / TasbihChamp
 
 Welcome to Tasbih4U / TasbihChamp – Your Ultimate Tasbeeh Counter and Dhikr Companion!
 
