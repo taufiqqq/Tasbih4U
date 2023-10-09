@@ -1,6 +1,6 @@
-# TasbihChamp / Tasbih4U README
+# Tasbih4U / TasbihChamp README
 
-Welcome to TasbihChamp / Tasbih4U – Your Ultimate Tasbeeh Counter and Dhikr Companion!
+Welcome to Tasbih4U / TasbihChamp – Your Ultimate Tasbeeh Counter and Dhikr Companion!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ Welcome to TasbihChamp / Tasbih4U – Your Ultimate Tasbeeh Counter and Dhikr Co
 - [Feedback and Support](#feedback-and-support)
 
 ## Introduction
-TasbihChamp / Tasbih4U is a powerful and user-friendly app designed to assist you in counting and tracking your dhikr (tally/counter) with ease. Whether you're a novice or a seasoned practitioner, our app offers a range of features to enhance your spiritual journey.
+Tasbih4U / TasbihChamp is a powerful and user-friendly app designed to assist you in counting and tracking your dhikr (tally/counter) with ease. Whether you're a novice or a seasoned practitioner, our app offers a range of features to enhance your spiritual journey.
 
 ## Features
 
@@ -39,7 +39,7 @@ TasbihChamp / Tasbih4U is a powerful and user-friendly app designed to assist yo
 - Synchronize progress with Google Account
 
 ## Getting Started
-1. Download and install TasbihChamp / Tasbih4U from the [here].
+1. Download and install Tasbih4U / TasbihChamp from the [here].
 2. Start counting and tracking your dhikr with ease.
 
 ## Usage
@@ -58,4 +58,4 @@ TasbihChamp / Tasbih4U is a powerful and user-friendly app designed to assist yo
 - We value your feedback! If you encounter any issues, have suggestions, or need assistance, please reach out to our support team at [support@example.com](mailto:muhdtaufiqbinjurimi@gmail.com).
 - Follow us on social media for updates, tips, and community engagement.
 
-Thank you for choosing TasbihChamp / Tasbih4U as your trusted companion on your spiritual journey. We wish you peace, blessings, and success in your dhikr practice.
+Thank you for choosing Tasbih4U / TasbihChamp as your trusted companion on your spiritual journey. We wish you peace, blessings, and success in your dhikr practice.
